@@ -46,9 +46,9 @@ while(gameOpen == 1):
     tercihint = 0
     n = 0
     
-    print("-----Adam Asmaca-----")
+    print("-----Kelime Tahmin Oyunu-----")
     print("  Ertuğrul Pakdamar")
-    print("     Yazılımcı")
+    print(" Yazılım Geliştiricisi")
     print("Game-1")
     print("Exit-2")
     print("Not: Oyundaki Kelimeler İngilizcedir")
